@@ -11,6 +11,7 @@ Questions Solved During A2SV G7 In-Person
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -55,8 +56,17 @@ Questions Solved During A2SV G7 In-Person
 | ------- |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
