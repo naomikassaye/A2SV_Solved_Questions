@@ -8,6 +8,7 @@ Questions Solved During A2SV G7 In-Person
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -27,6 +28,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -52,6 +54,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
