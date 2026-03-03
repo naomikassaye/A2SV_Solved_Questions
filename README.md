@@ -6,6 +6,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -45,6 +46,7 @@ Questions Solved During A2SV G7 In-Person
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
