@@ -20,6 +20,7 @@ Questions Solved During A2SV G7 In-Person
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2553-separate-the-digits-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2553-separate-the-digits-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
