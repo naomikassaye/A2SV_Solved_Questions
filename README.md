@@ -15,6 +15,7 @@ Questions Solved During A2SV G7 In-Person
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -84,4 +85,8 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->
