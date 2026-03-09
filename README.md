@@ -11,6 +11,7 @@ Questions Solved During A2SV G7 In-Person
 | [0136-single-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -41,6 +42,7 @@ Questions Solved During A2SV G7 In-Person
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -70,12 +72,14 @@ Questions Solved During A2SV G7 In-Person
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Two Pointers
 |  |
@@ -89,4 +93,20 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
