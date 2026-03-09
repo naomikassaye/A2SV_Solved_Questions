@@ -27,6 +27,7 @@ Questions Solved During A2SV G7 In-Person
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -42,6 +43,7 @@ Questions Solved During A2SV G7 In-Person
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -72,6 +74,7 @@ Questions Solved During A2SV G7 In-Person
 | ------- |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
