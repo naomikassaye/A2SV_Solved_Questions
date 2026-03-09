@@ -19,6 +19,7 @@ Questions Solved During A2SV G7 In-Person
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -31,6 +32,7 @@ Questions Solved During A2SV G7 In-Person
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -46,6 +48,7 @@ Questions Solved During A2SV G7 In-Person
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
