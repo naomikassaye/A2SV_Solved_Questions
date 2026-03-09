@@ -5,6 +5,7 @@ Questions Solved During A2SV G7 In-Person
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0136-single-number) |
@@ -32,6 +33,7 @@ Questions Solved During A2SV G7 In-Person
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
