@@ -62,6 +62,7 @@ Questions Solved During A2SV G7 In-Person
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
