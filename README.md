@@ -42,6 +42,7 @@ Questions Solved During A2SV G7 In-Person
 | [0001-two-sum](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ Questions Solved During A2SV G7 In-Person
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
