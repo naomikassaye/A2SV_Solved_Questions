@@ -25,6 +25,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ Questions Solved During A2SV G7 In-Person
 | ------- |
 | [0001-two-sum](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -60,6 +62,7 @@ Questions Solved During A2SV G7 In-Person
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/naomikassaye/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
