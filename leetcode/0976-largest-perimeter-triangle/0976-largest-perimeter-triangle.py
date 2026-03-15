@@ -5,7 +5,8 @@ class Solution:
             summ= sum(nums)
             if summ - maxx > maxx:
                 return summ
-            else: return 0
+            else: 
+                return 0
    
         nums.sort(reverse=True)
         for i in range(len(nums) - 2):
